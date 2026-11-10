@@ -1,5 +1,5 @@
 
-name: Python CI Pipeline
+name: Python CI Pipeline Demo
 
 on:
   push:
